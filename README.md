@@ -1,8 +1,8 @@
 # Hi there 👋
-### My name is Brandon
-### I am a sophomore studying computer science at Lehigh University
-### 😄 Pronouns: he/him
-### 📫 How to reach me: brandonlcoyee@gmail.com
+- My name is Brandon
+- I am a sophomore studying computer science at Lehigh University
+- 😄 Pronouns: he/him
+- 📫 How to reach me: brandonlcoyee@gmail.com
 
 <!--
 **brandonlyee/brandonlyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
