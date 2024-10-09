@@ -1,6 +1,5 @@
 # Hi there 👋
 - My name is Brandon
-- I am a sophomore studying computer science at Lehigh University
 - 😄 Pronouns: he/him
 - 📫 How to reach me: brandonlcoyee@gmail.com
 
